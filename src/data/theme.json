@@ -1,22 +1,22 @@
 {
-  "site_name": "DPT",
-  "header_title": "Darkfolio Portfolio Theme",
+  "site_name": "Marco Friedrichs",
+  "header_title": "Marco Friedrichs",
   "first_letter_only": true,
-  "email": "nichlas@itsnwa.com",
+  "email": "contact@marcofriedrichs.com",
   "social": [
     {
       "channel": "twitter",
-      "handle": "nichlaswa",
+      "handle": "marfriedrichs",
       "link_text": "tw"
     },
     {
       "channel": "instagram",
-      "handle": "its.nwa",
+      "handle": "marfriedrichs",
       "link_text": "ig"
     },
     {
       "channel": "github",
-      "handle": "itsnwa",
+      "handle": "marcofriedrichs",
       "link_text": "gh"
     }
   ]
